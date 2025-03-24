@@ -1,6 +1,4 @@
-# Generate a full README.md file based on the user's project tasks and requirements
 
-readme_content = """
 # Face Mask Classification and Segmentation Project
 
 
