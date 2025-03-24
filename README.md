@@ -134,4 +134,4 @@ This project focuses on the classification and segmentation of face masks in ima
   Task d.ipynb: U-Net based segmentation and comparison
 
 3. Ensure datasets are downloaded and paths are correct (e.g., MyDrive/MS/MSFD/...).
-4. 
+
